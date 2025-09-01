@@ -5,6 +5,5 @@ import string.easy.problem.ValidAnagram242;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        ValidAnagram242 angram = new Solution242();
-        System.out.println(angram.isAnagram("tar", "rat"));
+
 }}
