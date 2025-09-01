@@ -7,7 +7,7 @@ import java.util.List;
 
 public class Solution257 implements BinaryTreePaths257 {
     /*
-     *  There are 2 tpes root node and leaf nodes using dfs check if the node is leaf node if yes add the path to the list
+     *  There are 2 types root node and leaf nodes using dfs check if the node is leaf node if yes add the path to the list
      * else keep traversing the tree using recursion checking if node is null or not
      * */
     @Override
